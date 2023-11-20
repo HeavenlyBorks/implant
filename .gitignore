@@ -1,6 +1,7 @@
 # outputs
 *.exe
 *.out
+*.o
 
 # makefile
 Makefile
